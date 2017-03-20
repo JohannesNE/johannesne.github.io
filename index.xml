@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medicinske Lommekort</title>
-    <link>http://johannesne.github.io/index.xml</link>
+    <link>https://johannesne.github.io/index.xml</link>
     <description>Recent content on Medicinske Lommekort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Sun, 19 Mar 2017 16:09:45 +0100</lastBuildDate>
-    <atom:link href="http://johannesne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://johannesne.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Epikrise</title>
-      <link>http://johannesne.github.io/epikrise/</link>
+      <link>https://johannesne.github.io/epikrise/</link>
       <pubDate>Sun, 19 Mar 2017 16:09:45 +0100</pubDate>
       
-      <guid>http://johannesne.github.io/epikrise/</guid>
+      <guid>https://johannesne.github.io/epikrise/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Indlæggelsesårsag&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -39,10 +39,10 @@
     
     <item>
       <title>Journaloptagelse</title>
-      <link>http://johannesne.github.io/</link>
+      <link>https://johannesne.github.io/</link>
       <pubDate>Sun, 19 Mar 2017 15:54:49 +0100</pubDate>
       
-      <guid>http://johannesne.github.io/</guid>
+      <guid>https://johannesne.github.io/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Patientens problem og henvisningsårsagen&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 
