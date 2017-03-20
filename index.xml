@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medicinske Lommekort</title>
+    <link>http://johannesne.github.io/index.xml</link>
+    <description>Recent content on Medicinske Lommekort</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sun, 19 Mar 2017 16:09:45 +0100</lastBuildDate>
+    <atom:link href="http://johannesne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Epikrise</title>
+      <link>http://johannesne.github.io/epikrise/</link>
+      <pubDate>Sun, 19 Mar 2017 16:09:45 +0100</pubDate>
+      
+      <guid>http://johannesne.github.io/epikrise/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Indlæggelsesårsag&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Forløb&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Behandling og effekt af behandling&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Objektiv us.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Paraklinik:&lt;/strong&gt; Biokemi, EKG, undersøgelser, billeddiagnostik.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Opfølgning i afdelingen&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plan til egen læge&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Medicin ændringer&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Diagnoser, A+B&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Journaloptagelse</title>
+      <link>http://johannesne.github.io/</link>
+      <pubDate>Sun, 19 Mar 2017 15:54:49 +0100</pubDate>
+      
+      <guid>http://johannesne.github.io/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Patientens problem og henvisningsårsagen&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dispositioner&lt;/strong&gt; - Arvelige sygdomme i familien.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ekspositioner&lt;/strong&gt; - Rejser, kemi, job, seksualitet, anden smitterisiko.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Allergier&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Tidligere sygdomme&lt;/strong&gt; - Især kroniske sygdomme.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aktuelle sygehistorie&lt;/strong&gt; - Udgangspunkt i hovedklagen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Alment&lt;/strong&gt; - Funktionsniveau, feber, vægttab, appetit, træthed.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Øvrige organsystemer&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CNS&lt;/strong&gt; - Hovedpine, svimmelhed, synsforstyrrelser, styringsbesvær, nedsat kraft, besvimelser, kramper, leforstyrrelser.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cardiopulmonalt&lt;/strong&gt; - Dyspnø (funktion, hvile, natlig, ortopnø, &amp;hellip;), brystsmerter, ødemer, hoste, ekspektorater.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gastrointestinalt&lt;/strong&gt; - Smerter (tid, sted, karakter, udløsende/lindrende faktorer), diarré, opstipation, ændret føringsmønster, kvalme, opkast.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Urogenitalt&lt;/strong&gt; - Vandladning (smerter, blod, hyppighed, inkontinens), seksualfunktion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gynækologi&lt;/strong&gt; - Menarche, menopause, udflåd, graviditet, partitet, prævention.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bevægeapperatet&lt;/strong&gt; - Smerter, gangfunktion.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;KRAM&lt;/strong&gt; - Kost, rygning, alkohol og motion.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Medicin&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sociale forhold&lt;/strong&gt; - Erhverv (og sygdommens indflydelse på dette), civilstand, børn, fritid.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Objektiv undersøgelse&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Paraklinik&lt;/strong&gt; - Biokemi, billeddiagnostik, ekg, mm.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Konklusion og diagnose&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plan&lt;/strong&gt; - Yderligere udredning og behandling. Hvad skal opfyldes før patienten kan udskrives.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Information til patienten&lt;/strong&gt; - Inklusiv samtykke til udredning og behandling.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
