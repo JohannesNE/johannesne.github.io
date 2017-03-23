@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://johannesne.github.io/ekg-analyse/</loc>
+    <lastmod>2017-03-23T19:48:20+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://johannesne.github.io/epikrise/</loc>
     <lastmod>2017-03-19T16:09:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://johannesne.github.io/</loc>
+    <loc>https://johannesne.github.io/journal/</loc>
     <lastmod>2017-03-19T15:54:49+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://johannesne.github.io/</loc>
-    <lastmod>2017-03-19T16:09:45+01:00</lastmod>
+    <lastmod>2017-03-23T19:48:20+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,8 +6,79 @@
     <description>Recent content on Medicinske Lommekort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sun, 19 Mar 2017 16:09:45 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 19:48:20 +0100</lastBuildDate>
     <atom:link href="https://johannesne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>EKG - analyse</title>
+      <link>https://johannesne.github.io/ekg-analyse/</link>
+      <pubDate>Thu, 23 Mar 2017 19:48:20 +0100</pubDate>
+      
+      <guid>https://johannesne.github.io/ekg-analyse/</guid>
+      <description>
+
+&lt;h3 id=&#34;v-impulsdannelse-og-ledning&#34;&gt;V - Impulsdannelse og ledning&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;I:&lt;/strong&gt; Én P-tak pr. QRS-kompleks. Positiv P-tak i II. Regelmæssig rytme.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;II:&lt;/strong&gt; Frekvens (300 / RR i store tern). Normalt 60-100/min.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;III:&lt;/strong&gt; AV-overledning. PQ 0.12-0.22s (3-6 små tern).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;IV:&lt;/strong&gt; Ventrikel ledning. QRS &amp;lt; 0.12s (3 små tern).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;V:&lt;/strong&gt; Systole. QTc &amp;lt; 0.44-0.46s. QTc = QT/sqrt(RR).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;5&#34;&gt;+5&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+1:&lt;/strong&gt; &lt;em&gt;(Ved sinusrytme)&lt;/em&gt; Atriedilation/hypertrofi. P-mitrale: Puklet i II. P-pulmonale: Spids, &amp;gt;3mm i II eller &amp;gt;1.5mm i V1.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+2:&lt;/strong&gt; Low voltage. Max QRS-amplitude &amp;lt; 5mm i ekstremitetsafledninger.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+3:&lt;/strong&gt; QRS-akse. Normalt -30 - 90 grader.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+4:&lt;/strong&gt; &lt;em&gt;(Ved smalle QRS-komplekser)&lt;/em&gt; Ventrikelhypertrofi/belastning&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Venstre:&lt;/strong&gt; Hypertrofi: R &amp;gt; 25mm i V5-6 (eller + S i V1 &amp;gt; 35mm). Belastning: Negativ T-tak/ST depression i V5-6/I.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Højre:&lt;/strong&gt; Hypertrofi: Rs/qRs i V1. RS i V5-6. Belastning: Negativ T-tak/ST depression i V1-3.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+5:&lt;/strong&gt; &lt;em&gt;(Ved smalle QRS-komplekser)&lt;/em&gt; Iskæmi, infarkt, perikardit.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Non STEMI:&lt;/strong&gt; ST-depression &amp;gt; 0.5mm / neg. T-tak &amp;gt; 1mm i min. 2 samhørende afl.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;STEMI:&lt;/strong&gt; STE &amp;gt; 1mm. Dog i V2-3 &amp;gt; 2mm(mænd &amp;gt; 40 år), 2.5mm(mænd &amp;lt; 40 år), 1.5mm(kvinder). Altid min. 2 samhørende afl.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Q-tak:&lt;/strong&gt; Normal i V1, &amp;gt; 0.02s i V2-3, ellers &amp;gt; 0.03s og &amp;gt; 1mm. Altid min. 2 samhørende afl.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Perikardit:&lt;/strong&gt; Hængekøje STE i mange afl.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;3g-ved-grenblok&#34;&gt;+3G - Ved grenblok&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+1G:&lt;/strong&gt; Højre- eller vensresidigt?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Højresidigt:&lt;/strong&gt; rR i V1, bred s i V6/I.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venstresidigt:&lt;/strong&gt; rS/QS i V1, R i V6.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+2G:&lt;/strong&gt; H-grenblok med V-fasikelblok?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Normal akse:&lt;/strong&gt; Intet fasikelblok.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Venstre akse:&lt;/strong&gt; V. ant. fasikelblok.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Højre akse:&lt;/strong&gt; V. post. fasikelblok.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;+3G:&lt;/strong&gt; H-grenblok med STEMI?&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Epikrise</title>
@@ -39,10 +110,10 @@
     
     <item>
       <title>Journaloptagelse</title>
-      <link>https://johannesne.github.io/</link>
+      <link>https://johannesne.github.io/journal/</link>
       <pubDate>Sun, 19 Mar 2017 15:54:49 +0100</pubDate>
       
-      <guid>https://johannesne.github.io/</guid>
+      <guid>https://johannesne.github.io/journal/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Patientens problem og henvisningsårsagen&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -58,7 +129,7 @@
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Alment&lt;/strong&gt; - Funktionsniveau, feber, vægttab, appetit, træthed.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Øvrige organsystemer&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Øvrige organsystemer:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;CNS&lt;/strong&gt; - Hovedpine, svimmelhed, synsforstyrrelser, styringsbesvær, nedsat kraft, besvimelser, kramper, leforstyrrelser.&lt;/li&gt;
@@ -81,7 +152,7 @@
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Konklusion og diagnose&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plan&lt;/strong&gt; - Yderligere udredning og behandling. Hvad skal opfyldes før patienten kan udskrives.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plan&lt;/strong&gt; - Yderligere udredning og behandling. Hvad skal opfyldes før patienten kan udskrives?&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Information til patienten&lt;/strong&gt; - Inklusiv samtykke til udredning og behandling.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
