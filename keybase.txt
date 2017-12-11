@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/enevoldsen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jenevoldsen.com
+  * I am enevoldsen (https://keybase.io/enevoldsen) on keybase.
+  * I have a public key ASCupuSye-5v1RThquKDHcdQeThi3cmXhJtREKO_NlqKnQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203549ae8be56332430b1624e08afbee77415496c6de6f0727364e92eadddbecef0a",
+      "host": "keybase.io",
+      "kid": "0120aea6e4b27bee6fd514e1aae2831dc750793862ddc997849b5110a3bf365a8a9d0a",
+      "uid": "fa3060b1fa945cc2a0e6b7b8540f8d19",
+      "username": "enevoldsen"
+    },
+    "merkle_root": {
+      "ctime": 1512986443,
+      "hash": "836ea20388ce368da4023a793a6a5f3ab7275d6442afa0dbe1f433768ba48d90f96ed7a80014c63dae5b6828d2204eb8c1e0ffd7a42c399a0f423b8ee4e10376",
+      "hash_meta": "65c5c0d8517914b0dcd18862b168b66f16a2c2d524dc0c5f4bea945e58a3c006",
+      "seqno": 1800755
+    },
+    "service": {
+      "hostname": "jenevoldsen.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1512986459,
+  "expire_in": 504576000,
+  "prev": "0fe892f1658bfeb36f673857ad290829ede87a8cbce6a16b5592c0c19a45bbdd",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrqbksnvub9UU4arigx3HUHk4Yt3Jl4SbURCjvzZaip0Kp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzU0OWFlOGJlNTYzMzI0MzBiMTYyNGUwOGFmYmVlNzc0MTU0OTZjNmRlNmYwNzI3MzY0ZTkyZWFkZGRiZWNlZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWVhNmU0YjI3YmVlNmZkNTE0ZTFhYWUyODMxZGM3NTA3OTM4NjJkZGM5OTc4NDliNTExMGEzYmYzNjVhOGE5ZDBhIiwidWlkIjoiZmEzMDYwYjFmYTk0NWNjMmEwZTZiN2I4NTQwZjhkMTkiLCJ1c2VybmFtZSI6ImVuZXZvbGRzZW4ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTI5ODY0NDMsImhhc2giOiI4MzZlYTIwMzg4Y2UzNjhkYTQwMjNhNzkzYTZhNWYzYWI3Mjc1ZDY0NDJhZmEwZGJlMWY0MzM3NjhiYTQ4ZDkwZjk2ZWQ3YTgwMDE0YzYzZGFlNWI2ODI4ZDIyMDRlYjhjMWUwZmZkN2E0MmMzOTlhMGY0MjNiOGVlNGUxMDM3NiIsImhhc2hfbWV0YSI6IjY1YzVjMGQ4NTE3OTE0YjBkY2QxODg2MmIxNjhiNjZmMTZhMmMyZDUyNGRjMGM1ZjRiZWE5NDVlNThhM2MwMDYiLCJzZXFubyI6MTgwMDc1NX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJqZW5ldm9sZHNlbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM3In0sImN0aW1lIjoxNTEyOTg2NDU5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjBmZTg5MmYxNjU4YmZlYjM2ZjY3Mzg1N2FkMjkwODI5ZWRlODdhOGNiY2U2YTE2YjU1OTJjMGMxOWE0NWJiZGQiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAqGR4Bsa+3QDaYnE95sRsbBuA4NV57yRezQeb6GIMh7yZ/3C4aiUsYWYIP/YKAhsa8DA1jNX3g0Z54pZ8TeNfAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH/haZFdCxnIeFU2tS/g6sKQCrIBeMib26T2nq5oxX4Eo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/enevoldsen
+
+==================================================================
