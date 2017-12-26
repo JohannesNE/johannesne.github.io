@@ -6,8 +6,59 @@
     <description>Recent content on Medicinske Lommekort</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 23 Mar 2017 19:48:20 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2017 15:54:49 +0100</lastBuildDate>
     <atom:link href="https://johannesne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Journaloptagelse</title>
+      <link>https://johannesne.github.io/journal/</link>
+      <pubDate>Sun, 19 Mar 2017 15:54:49 +0100</pubDate>
+      
+      <guid>https://johannesne.github.io/journal/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Patientens problem og henvisningsårsagen&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dispositioner&lt;/strong&gt; - Arvelige sygdomme i familien.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ekspositioner&lt;/strong&gt; - Rejser, kemi, job, seksualitet, anden smitterisiko.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Allergier&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Tidligere sygdomme&lt;/strong&gt; - Især kroniske sygdomme.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aktuelle sygehistorie&lt;/strong&gt; - Udgangspunkt i hovedklagen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Alment&lt;/strong&gt; - Funktionsniveau, feber, vægttab, appetit, træthed.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Øvrige organsystemer:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CNS&lt;/strong&gt; - Hovedpine, svimmelhed, synsforstyrrelser, styringsbesvær, nedsat kraft, besvimelser, kramper, leforstyrrelser.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cardiopulmonalt&lt;/strong&gt; - Dyspnø (funktion, hvile, natlig, ortopnø, &amp;hellip;), brystsmerter, ødemer, hoste, ekspektorater.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gastrointestinalt&lt;/strong&gt; - Smerter (tid, sted, karakter, udløsende/lindrende faktorer), diarré, opstipation, ændret føringsmønster, kvalme, opkast.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Urogenitalt&lt;/strong&gt; - Vandladning (smerter, blod, hyppighed, inkontinens), seksualfunktion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gynækologi&lt;/strong&gt; - Menarche, menopause, udflåd, graviditet, partitet, prævention.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bevægeapperatet&lt;/strong&gt; - Smerter, gangfunktion.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;KRAM&lt;/strong&gt; - Kost, rygning, alkohol og motion.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Medicin&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sociale forhold&lt;/strong&gt; - Erhverv (og sygdommens indflydelse på dette), civilstand, børn, fritid.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Objektiv undersøgelse&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Paraklinik&lt;/strong&gt; - Biokemi, billeddiagnostik, ekg, mm.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Konklusion og diagnose&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plan&lt;/strong&gt; - Yderligere udredning og behandling. Hvad skal opfyldes før patienten kan udskrives?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Information til patienten&lt;/strong&gt; - Inklusiv samtykke til udredning og behandling.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>EKG - analyse</title>
@@ -109,53 +160,225 @@
     </item>
     
     <item>
-      <title>Journaloptagelse</title>
-      <link>https://johannesne.github.io/journal/</link>
-      <pubDate>Sun, 19 Mar 2017 15:54:49 +0100</pubDate>
+      <title>Antibiotika</title>
+      <link>https://johannesne.github.io/antibiotika/</link>
+      <pubDate>Wed, 15 Nov 2017 20:10:45 +0100</pubDate>
       
-      <guid>https://johannesne.github.io/journal/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Patientens problem og henvisningsårsagen&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+      <guid>https://johannesne.github.io/antibiotika/</guid>
+      <description>
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dispositioner&lt;/strong&gt; - Arvelige sygdomme i familien.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;em&gt;November 2017&lt;/em&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ekspositioner&lt;/strong&gt; - Rejser, kemi, job, seksualitet, anden smitterisiko.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;em&gt;Indhold:&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&#34;#betalactamer&#34;&gt;Beta-lactamer&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;#protein&#34;&gt;Proteinsyntesehæmmere&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;#DNA&#34;&gt;RNA/DNA hæmmere&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;#anti&#34;&gt;Antimetabolitter&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;#primær&#34;&gt;Antibiotika i primærsektoren&lt;/a&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Allergier&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;h2 id=&#34;a-name-betalactamer-a-beta-lactamer&#34;&gt;&lt;a name=&#34;betalactamer&#34;&gt;&lt;/a&gt;Beta-lactamer&lt;/h2&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Tidligere sygdomme&lt;/strong&gt; - Især kroniske sygdomme.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;Hæmmer dannelsen af bakteriers cellevæg. Bacteriocide på bakterier i vækst.&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Aktuelle sygehistorie&lt;/strong&gt; - Udgangspunkt i hovedklagen.&lt;/p&gt;&lt;/li&gt;
+&lt;h3 id=&#34;penicilliner&#34;&gt;Penicilliner&lt;/h3&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Alment&lt;/strong&gt; - Funktionsniveau, feber, vægttab, appetit, træthed.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Øvrige organsystemer:&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;benzylpenicillin-g-og-phenoxymethylpenicillin-v&#34;&gt;Benzylpenicillin (G) og phenoxymethylpenicillin (V)&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;CNS&lt;/strong&gt; - Hovedpine, svimmelhed, synsforstyrrelser, styringsbesvær, nedsat kraft, besvimelser, kramper, leforstyrrelser.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cardiopulmonalt&lt;/strong&gt; - Dyspnø (funktion, hvile, natlig, ortopnø, &amp;hellip;), brystsmerter, ødemer, hoste, ekspektorater.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gastrointestinalt&lt;/strong&gt; - Smerter (tid, sted, karakter, udløsende/lindrende faktorer), diarré, opstipation, ændret føringsmønster, kvalme, opkast.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Urogenitalt&lt;/strong&gt; - Vandladning (smerter, blod, hyppighed, inkontinens), seksualfunktion.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gynækologi&lt;/strong&gt; - Menarche, menopause, udflåd, graviditet, partitet, prævention.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bevægeapperatet&lt;/strong&gt; - Smerter, gangfunktion.&lt;/li&gt;
+&lt;li&gt;Følsomme for &amp;beta;-lactamaser. (G) gives parenteralt.
+
+&lt;ul&gt;
+&lt;li&gt;+ De fleste grampositive bakterier.&lt;/li&gt;
+&lt;li&gt;+ Nogle gramnegative: Meningokokker, visse stave.&lt;/li&gt;
+&lt;li&gt;+ &lt;em&gt;Treponema pallidum&lt;/em&gt; og &lt;em&gt;Borrelia burgdorferi&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;KRAM&lt;/strong&gt; - Kost, rygning, alkohol og motion.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Medicin&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sociale forhold&lt;/strong&gt; - Erhverv (og sygdommens indflydelse på dette), civilstand, børn, fritid.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Objektiv undersøgelse&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Paraklinik&lt;/strong&gt; - Biokemi, billeddiagnostik, ekg, mm.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Konklusion og diagnose&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plan&lt;/strong&gt; - Yderligere udredning og behandling. Hvad skal opfyldes før patienten kan udskrives?&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Information til patienten&lt;/strong&gt; - Inklusiv samtykke til udredning og behandling.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&#34;dicloxacillin-og-flucloxacillin&#34;&gt;Dicloxacillin og flucloxacillin&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;beta;-lactamase-stabile. Bruges derfor ved penicillinase-producerende staphylokokker.
+
+&lt;ul&gt;
+&lt;li&gt;+ &lt;em&gt;S. aureus&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;ampicillin-amoxicillin&#34;&gt;Ampicillin, amoxicillin&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Penicilliner med virkning på gramnegative stave.&lt;/li&gt;
+&lt;li&gt;Kontraindiceret ved mononukleose. Giver udslæt. Disse 2 stoffer giver generelt oftere udslæt end andre penicilliner (ikke allergi).
+
+&lt;ul&gt;
+&lt;li&gt;+ &lt;em&gt;Haemophilus influenzae&lt;/em&gt; (nogle stammer), &lt;em&gt;Proteus mirabilis&lt;/em&gt;, &lt;em&gt;E. coli&lt;/em&gt;, &lt;em&gt;Enterococcus faecalis&lt;/em&gt; og &lt;em&gt;Helicobacter pylori&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;mecillinam&#34;&gt;Mecillinam&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Effektiv mod gramnegative stave. Derfor virksomt ved de fleste ukompliserede UVI&amp;rsquo;er
+
+&lt;ul&gt;
+&lt;li&gt;+ ESBL producerende bakterier&lt;/li&gt;
+&lt;li&gt;- Grampositive stave og anaerobe bakterier.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;kombinationer-med-beta-lactamase-hæmmer&#34;&gt;Kombinationer med &amp;beta;-lactamase-hæmmer:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Amoxacillin + clavulansyre (Bioclavid)
+
+&lt;ul&gt;
+&lt;li&gt;Kontraindiceret ved stærkt nedsat leverfunktion. Andre penicilliner kan anvedes efter evt. reduktion i dosis.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Piperacillin + Tazobactam (Tazocin)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;cephalosporiner&#34;&gt;Cephalosporiner&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kan ofte bruges ved penicillinallergi.&lt;/li&gt;
+&lt;li&gt;Resistensdrivende. Brugen bør begrænses.&lt;/li&gt;
+&lt;li&gt;Ceftriaxon (og andre cephalosporiner) kan krydse blod-hjerne barieren ifm. meningitis.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;carbapenemer&#34;&gt;Carbapenemer&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meropenem anbefales som udgangspunkt, da der er begrænset erfaring med ertapenem.&lt;/li&gt;
+&lt;li&gt;Meget bredspektret. Brugen bør begrænses.&lt;/li&gt;
+&lt;li&gt;Inducerer resistens overfor andre &amp;beta;-lactamer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;andre-hæmmere-af-cellevægen&#34;&gt;Andre hæmmere af cellevægen&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vancomycin
+
+&lt;ul&gt;
+&lt;li&gt;+ Lokal &lt;em&gt;C. dificile&lt;/em&gt; i tarmen, da stoffet ikke optages.&lt;/li&gt;
+&lt;li&gt;+ Restistente bakterier bl.a. MRSA.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a-name-protein-a-proteinsyntese-hæmmere&#34;&gt;&lt;a name=&#34;protein&#34;&gt;&lt;/a&gt;Proteinsyntese hæmmere&lt;/h2&gt;
+
+&lt;h3 id=&#34;tetracykliner&#34;&gt;Tetracykliner&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bakteriostatisk. Hæmmer derfor effekten af bakteriocide stoffer som penicillin.
+
+&lt;ul&gt;
+&lt;li&gt;+ Protozoer. Særligt malaria&lt;/li&gt;
+&lt;li&gt;+ Clamydia, Rickettsia, mmm.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;aminoglykosider&#34;&gt;Aminoglykosider&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Gentamicin og tobramycin.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anvendes som udgangspunkt sammen med &amp;beta;-lactam. Synergi&lt;/li&gt;
+&lt;li&gt;Renal clearing. Ved nedsat nyrefunktion kan doseringsintervallet øges for at beholde højt peak.&lt;/li&gt;
+&lt;li&gt;Risiko for nefrotoksicitet og ototoksicitet.&lt;/li&gt;
+&lt;li&gt;Neuromuskulært blokkerende.&lt;/li&gt;
+&lt;li&gt;Clearence hæmmes af bl.a. ciclosporin og loop-diuretika.&lt;/li&gt;
+&lt;li&gt;Øget toksisitet ved kombination med cisplatin eller carboplatin.
+
+&lt;ul&gt;
+&lt;li&gt;+ Gramnegative stave + &lt;em&gt;S. Aureus&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;makrolider&#34;&gt;Makrolider&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Azithromycin, clarithromycin, erythromycin og roxithromycin.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Bakteriostatisk.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Hovedindikation:&lt;/em&gt; Pneumokokker (5% resistens), &amp;beta;-hæmolytiske streptokokker.&lt;/li&gt;
+&lt;li&gt;Desuden ved penicillinallergi.
+
+&lt;ul&gt;
+&lt;li&gt;Posteksponerings profylakse ved kighoste smitte.&lt;/li&gt;
+&lt;li&gt;+ Klamydia.&lt;/li&gt;
+&lt;li&gt;Azithromycin har lang halveringstid (11-14t). Klamydia kan derfor behandles med en enkelt tablet.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Clindamycin minder om makroliderne. Anvendes issær mod alvorlinge anaerobe infektioner.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a-name-dna-a-rna-dna-hæmmere&#34;&gt;&lt;a name=&#34;DNA&#34;&gt;&lt;/a&gt;RNA/DNA hæmmere&lt;/h2&gt;
+
+&lt;h3 id=&#34;fluorquinoloner&#34;&gt;Fluorquinoloner&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Ciprofloxacin, levofloxacin og moxifloxacin.&lt;/em&gt;&lt;br /&gt;
+Bakteriocidt mod bakterier i vækst og hvile.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Brugen bør begrænses
+
+&lt;ul&gt;
+&lt;li&gt;Ikke virksomt mod pneumokokker. Må derfor &lt;strong&gt;ikke&lt;/strong&gt; alene være førstevalg ved luftvejsinfektioner.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;metronidazol&#34;&gt;Metronidazol&lt;/h3&gt;
+
+&lt;p&gt;Mod obligat anaerobe bakterier og protozoer.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Anvendes ofte ved abcesser.&lt;/li&gt;
+&lt;li&gt;Profylaktisk ved tarmkirurgi.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;ved-tuberkulose&#34;&gt;Ved tuberkulose&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Rifampicin, ethambutol og isoniazid.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-anti-a-antimetabolitter&#34;&gt;&lt;a name=&#34;anti&#34;&gt;&lt;/a&gt;Antimetabolitter&lt;/h2&gt;
+
+&lt;h3 id=&#34;sulfonamider&#34;&gt;Sulfonamider&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Sulfamethizol og sulfamethoxazol.&lt;/em&gt;&lt;br /&gt;
+Hæmmer dannelsen af folsyre. Udskildes i urin i aktiv form.
+- Behandling af ukompliseret cystit.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-primær-a-antibiotika-i-primærsektoren-sundhedsstyrelsen2012&#34;&gt;&lt;a name=&#34;primær&#34;&gt;&lt;/a&gt;Antibiotika i primærsektoren &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:sundhedsstyrelsen2012&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:sundhedsstyrelsen2012&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Carbapenemer må ikke anvendes i primærsektor&lt;/li&gt;
+&lt;li&gt;Fluoquinoloner må anvendes ved resistens, &lt;em&gt;eller&lt;/em&gt;:
+
+&lt;ul&gt;
+&lt;li&gt;Penicilinallergi og KOL exacerbation eller pyelonephritis.&lt;/li&gt;
+&lt;li&gt;Mistanke om salmonella hos risikopatienter (&amp;gt;60, atherosklerose, immunsupprimerede)&lt;/li&gt;
+&lt;li&gt;Epididymitis, &amp;gt;35 år&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Cephalosporiner må anvendes ved resistens, &lt;em&gt;eller&lt;/em&gt;:
+
+&lt;ul&gt;
+&lt;li&gt;Gravide med penicilinallergi&lt;/li&gt;
+&lt;li&gt;Meningokoksygdom og penicilinallergi&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;yderligere-info&#34;&gt;Yderligere info&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pro.medicin.dk/Laegemiddelgrupper/Grupper/315361&#34;&gt;Oversigt over mikroorganismer, Pro Medicin&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:sundhedsstyrelsen2012&#34;&gt;Vejledning om ordination af antibiotika, 2012 [&lt;a href=&#34;http://sundhedsstyrelsen.dk/~/media/34F841A604D94FD596168CAC4F2D8A3D.ashx&#34;&gt;http://sundhedsstyrelsen.dk/~/media/34F841A604D94FD596168CAC4F2D8A3D.ashx&lt;/a&gt;]
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:sundhedsstyrelsen2012&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     
